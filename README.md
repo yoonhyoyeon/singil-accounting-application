@@ -41,7 +41,7 @@
 카드 종류에 따른 일별 카드 매출 조회 팝업 (자세히 보기)
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/52f372da-ba50-4ac8-aa70-5124f1631ffd" width="600" />
+<img src="https://github.com/user-attachments/assets/093db6d7-ff45-45b5-9b76-0ddd48bd0c21" width="600" />
 
 티머니 매출 조회 페이지
 
