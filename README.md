@@ -11,32 +11,32 @@
 * 2019.12. 개발
 
 ## 실행 화면
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/0be49c65-8a02-420e-959e-7233b33a8689" width="600" />
+<img src="https://github.com/user-attachments/assets/036275d4-92a2-4683-9592-5d94b0a7d298" width="600" />
 
 로그인 및 회원가입 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/e47fa8f5-202e-42fa-9c7c-ee17e9ab8eb1" width="600" />
+<img src="https://github.com/user-attachments/assets/e2e3b422-db77-4bef-8459-ce53d0295eed" width="600" />
 
 매출 현황 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/802dafa8-45cf-40cc-880d-319a3fb18ab2" width="600" />
+<img src="https://github.com/user-attachments/assets/ccbb9dfc-a6c1-4452-a494-e25700b37140" width="600" />
 
 엑셀 파일 날짜 설정 팝업
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/6478f6ea-e843-4196-9774-1191cca76d63" width="600" />
+<img src="https://github.com/user-attachments/assets/23562a40-bb78-4599-8aba-07ed00db20ac" width="600" />
 
 일별 매출 조회 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/ab798ebc-5a21-4387-9933-37792ee2ca0e" width="600" />
+<img src="https://github.com/user-attachments/assets/923ee2f3-0c40-46f4-8035-ed30afa6924a" width="600" />
 
 카드 매출 조회 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/7041849f-6002-4ace-850f-b8525ee684a6" width="600" />
+<img src="https://github.com/user-attachments/assets/1435ee6a-5323-411c-a40c-9f0cdf18c370" width="600" />
 
 카드 종류에 따른 일별 카드 매출 조회 팝업 (자세히 보기)
 
@@ -46,32 +46,32 @@
 티머니 매출 조회 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/686fec48-dba7-408e-90ea-73e1e89b6537" width="600" />
+<img src="https://github.com/user-attachments/assets/938d0dfd-3571-4444-8e4a-65cccadc5763" width="600" />
 
 캐시비 매출 조회 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/3ee98f7a-1356-4a4b-8a72-698c69d5a437" width="600" />
+<img src="https://github.com/user-attachments/assets/6702ded3-665d-4a06-92ce-5dfb8b033463" width="600" />
 
 아스템즈 동기화 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/51b47140-7bad-4d89-969b-f8fe884e7994" width="600" />
+<img src="https://github.com/user-attachments/assets/72078a2e-bc2b-4665-8386-0de5bb1b63ac" width="600" />
 
 여신금융협회 동기화 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/af093902-b7b9-4d5f-8f7f-58ffa5ff139a" width="600" />
+<img src="https://github.com/user-attachments/assets/80123896-7fbe-46bc-a277-5518c5826e42" width="600" />
 
 동기화 상태 확인 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/a16e3b78-a9f7-46b0-8861-d7518e7bd005" width="600" />
+<img src="https://github.com/user-attachments/assets/2d6c0c81-56d8-4bd0-94ac-99880ec6951c" width="600" />
 
 계정 정보 확인 및 변경 페이지
 
 
-<img src="https://github.com/yoonhyoyeon/accouting_app/assets/30565205/cc732678-4ec3-4344-ae0f-adc6ae8f7868" width="600" />
+<img src="https://github.com/user-attachments/assets/ee937de1-0f19-4514-a8a8-e5240c94d37a" width="600" />
 
 비밀번호 변경 페이지
 
